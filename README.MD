@@ -18,3 +18,5 @@ In order for the software to start working, you need to:
 
 ### How it works
 ![MINT](mint.png)
+
+### Test
